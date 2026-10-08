@@ -516,86 +516,86 @@ cardpower = {
     "Regeneration":x,
     "Regrowth":x,
     "Scryb Sprites":1,
-    "Shanodin Dryads":
-    "Stream of Life":
-    "Thicket Baselisk":
-    "Timber Wolves":
-    "Tranquility":
-    "Tsunami":
-    "Verduran Enchantress":
-    "Wall of Brambles":
-    "Wall of Ice":
-    "Wall of Wood":
-    "Wanderlust":
-    "War Mammoth":
-    "Web":
-    "Smoke":
-    "Ankh of Mishra":
-    "Basalt Monalith":
-    "Black Lotus":
-    "Black Vise":
-    "Celestial Prism":
-    "Chaos Orb":
-    "Clockwork Beast":
-    "Conservator":
-    "Copper Tablet":
-    "Crystal Rod":
-    "Cyclopean Tomb":
-    "Dingus Egg":
-    "Disrupting Scepter":
-    "Forcefield":
-    "Gauntlet of Might":
-    "Glasses of Urza":
-    "Helm of Chatzuk":
-    "Howling Mine":
-    "Icy Manipulator":
-    "Illusionary Mask":
-    "Iron Star":
-    "Ivory Cup":
-    "Jade Monolith":
-    "Jade Statue":
-    "Jayemdae Tome":
-    "Juggernaut":
-    "Kormus Bell":
-    "Library of Leng":
-    "Living Wall":
-    "Mana Vault":
-    "Meekstone":
-    "Mox Emerald":
-    "Mox Jet":
-    "Mox Pearl":
-    "Mox Ruby":
-    "Mox Saphire":
-    "Nevinyrral's Disk":
-    "Obsianus Golem":
-    "Rod of Ruin":
-    "Sol Ring":
-    "Soul Net":
-    "Sunglasses of Urza":
-    "The Hive":
-    "Throne of Bone":
-    "Time Vault":
-    "Winter Orb":
-    "Wooden Sphere":
-    "Badlands":
-    "Bayou":
-    "Plateau":
-    "Savannah":
-    "Scrublands":
-    "Taiga":
-    "Tropical Island":
-    "Tundra":
-    "Underground Sea":
-    "Plains(A)":
-    "Plains(B)":
-    "Island(A)":
-    "Island(B)":
-    "Swamp(A)":
-    "Swamp(B)":
-    "Mountain(A)":
-    "Mountain(B)":
-    "Forest(A)":
-    "Forest(B)":
+    "Shanodin Dryads":1,
+    "Stream of Life":x,
+    "Thicket Baselisk":2,
+    "Timber Wolves":1,
+    "Tranquility":x,
+    "Tsunami":x,
+    "Verduran Enchantress":0,
+    "Wall of Brambles":2,
+    "Wall of Ice":0,
+    "Wall of Wood":0,
+    "Wanderlust":x,
+    "War Mammoth":3,
+    "Web":x,
+    "Smoke":x,
+    "Ankh of Mishra":x,
+    "Basalt Monalith":x,
+    "Black Lotus":x,
+    "Black Vise":x,
+    "Celestial Prism":x,
+    "Chaos Orb":x,
+    "Clockwork Beast":0,
+    "Conservator":x,
+    "Copper Tablet":x,
+    "Crystal Rod":x,
+    "Cyclopean Tomb":x,
+    "Dingus Egg":x,
+    "Disrupting Scepter":x,
+    "Forcefield":x,
+    "Gauntlet of Might":x,
+    "Glasses of Urza":x,
+    "Helm of Chatzuk":x,
+    "Howling Mine":x,
+    "Icy Manipulator":x,
+    "Illusionary Mask":x,
+    "Iron Star":x,
+    "Ivory Cup":x,
+    "Jade Monolith":x,
+    "Jade Statue":3,
+    "Jayemdae Tome":x,
+    "Juggernaut":5,
+    "Kormus Bell":x,
+    "Library of Leng":x,
+    "Living Wall":0,
+    "Mana Vault":x,
+    "Meekstone":x,
+    "Mox Emerald":x,
+    "Mox Jet":x,
+    "Mox Pearl":x,
+    "Mox Ruby":x,
+    "Mox Saphire":x,
+    "Nevinyrral's Disk":x,
+    "Obsianus Golem":4,
+    "Rod of Ruin":x,
+    "Sol Ring":x,
+    "Soul Net":x,
+    "Sunglasses of Urza":x,
+    "The Hive":x,
+    "Throne of Bone":x,
+    "Time Vault":x,
+    "Winter Orb":x,
+    "Wooden Sphere":x,
+    "Badlands":x,
+    "Bayou":x,
+    "Plateau":x,
+    "Savannah":x,
+    "Scrublands":x,
+    "Taiga":x,
+    "Tropical Island":x,
+    "Tundra":x,
+    "Underground Sea":x,
+    "Plains(A)":x,
+    "Plains(B)":x,
+    "Island(A)":x,
+    "Island(B)":x,
+    "Swamp(A)":x,
+    "Swamp(B)":x,
+    "Mountain(A)":x,
+    "Mountain(B)":x,
+    "Forest(A)":x,
+    "Forest(B)":x,
 }
 
 carddefence = {
