@@ -1,8 +1,12 @@
 import Cardstats
 
 cnum = int(input("Enter a card number: "))
-cname = Cardstats.test(cnum)
+cname = Cardstats.getcname(cnum)
 print(cname)
 print(Cardstats.getcpower(cname))
 print(Cardstats.getcdefence(cname))
-print(Cardstats.getctype(cname))
+ctype = Cardstats.getctype(cname)
+print(ctype)
+
+cccost = str(Cardstats.getmcost(cname))
+print("Cost: " + cccost, ctype + " mana, and " + "X" + " other mana.")

@@ -1,4 +1,4 @@
-cardkeyword = {
+dictionary save = {
     x:
     "Animate Wall":
     "Armageddon":
@@ -31,7 +31,7 @@ cardkeyword = {
     "Northern Paladin":
     "Pearled Unicorn":
     "Personal Incarnation":
-    "Fireball":
+    "Purelace":
     "Red Ward":
     "Resurrection":
     "Reverse Damage":
@@ -228,7 +228,7 @@ cardkeyword = {
     "Wanderlust":
     "War Mammoth":
     "Web":
-    "Smoke":
+    "Wild Growth":
     "Ankh of Mishra":
     "Basalt Monalith":
     "Black Lotus":
