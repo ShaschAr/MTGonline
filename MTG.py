@@ -8,5 +8,5 @@ print(Cardstats.getcdefence(cname))
 ctype = Cardstats.getctype(cname)
 print(ctype)
 
-cccost = str(Cardstats.getmcost(cname))
+cccost = str(Cardstats.getc20mcost(cname))
 print("Cost: " + cccost, ctype + " mana, and " + "X" + " other mana.")
