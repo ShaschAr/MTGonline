@@ -598,6 +598,304 @@ carduse = {
     "Forest(B)":"Land",
 }
 
+cardsubtype = {
+    "Animate Wall":"Wall",
+    "Armageddon":x,
+    "Balance":x,
+    "Benalish Hero":"Hero",
+    "Black Ward":"Creature",
+    "Blaze of Glory":x,
+    "Blessing":"Creature",
+    "Blue Ward":"Creature",
+    "Castle":x,
+    "Circle of Protection: Blue":x,
+    "Circle of Protection: Green":x,
+    "Circle of Protection: Red":x,
+    "Circle of Protection: White":x,
+    "Consecrate Land":"Land",
+    "Conversion":x,
+    "Crusade":x,
+    "Death Ward":x,
+    "Disenchant":x,
+    "Farmstead":"Land",
+    "Green Ward":"Creature",
+    "Guardian Angel":x,
+    "Healing Salve":x,
+    "Holy Armor":"Creature",
+    "Holy Strength":"Creature",
+    "Island Sanctuary":x,
+    "Karma":x,
+    "Lance":"Creature",
+    "Mesa Pegasus":"Pegasus",
+    "Northern Paladin":"Paladin",
+    "Pearled Unicorn":"Unicorn",
+    "Personal Incarnation":"Avatar",
+    "Purelace":x,
+    "Red Ward":"Creature",
+    "Resurrection":x,
+    "Reverse Damage":x,
+    "Righteouness":x,
+    "Samite Healer":"Cleric",
+    "Savannah Lions":"Lions",
+    "Serra Angel":"Angel",
+    "Swords to Plowshares":x,
+    "Veteran Bodyguard":"Bodygaurd",
+    "Wall of Swords":"Wall",
+    "White Knight":"Knight",
+    "White Ward":"Creature",
+    "Wrath of God":x,
+    "Air Elemental":"Elemental",
+    "Ancestral Recall":x,
+    "Animate Artifact":"Non-Creature Artifact",
+    "Blue Element Blast":x,
+    "Braingeyser":x,
+    "Clone":"Clone",
+    "Control Magic":"Creature",
+    "Copy Artifact":x,
+    "Counter Spell":x,
+    "Creature Bond":"Creature",
+    "Drain Power":x,
+    "Feedback":"Enchantment",
+    "Flight":"Creature",
+    "Invisibility":"Creature",
+    "Jump":x,
+    "Lifetap":x,
+    "Lord of Atlantis":"Lord of Atlantis",
+    "Magical Hack":x,
+    "Mahamoti Djinn":"Djinn",
+    "Mana Short":x,
+    "Merfolk of the Pearl Trident":"Merfolk",
+    "Phantasmal Forces":"Phantasm",
+    "Phantasmal Terrain":"Land",
+    "Phantom Monster":"Phantasm",
+    "Pirate Ship":"Ship",
+    "Power Leak":"Enchantment",
+    "Power Sink":x,
+    "Prodigal Sorcerer":"Wizard",
+    "Psionic Blast":x,
+    "Psychic Venom":
+    "Sea Serpent":
+    "Siren's Call":x,
+    "Sleight of Mind":x,
+    "Spell Blast":x,
+    "Stasis":x,
+    "Steal Artifact":
+    "Thoughtlace":x,
+    "Time Walk":x,
+    "Time Twister":x,
+    "Twidle":x,
+    "Unsummon":x,
+    "Vesuvan Doppelganger":
+    "Volcanic Eruption":x,
+    "Wall of Air":
+    "Wall of Water":
+    "Water Elemental":
+    "Animate Dead":
+    "Bad Moon":x,
+    "Black Knight":
+    "Bog Wraith":
+    "Contract from Below":x,
+    "Cursed Land":
+    "Dark Ritual":x,
+    "Darkpact":x,
+    "Deathgrip":x,
+    "Deathlace":x,
+    "Demonic Attorney":x,
+    "Demonic Hordes":
+    "Demonic Tutor":x,
+    "Drain Life":x,
+    "Drudge Skeletons":
+    "Evil Presence":
+    "Fear":
+    "Frozen Shade":
+    "Gloom":x,
+    "Howl from Beyond":x,
+    "Hypnotic Specter ":
+    "Lich":x,
+    "Lord of the Pit":
+    "Mind twist":x,
+    "Nether Shadow":
+    "Nettling Imp":
+    "Nightmare":
+    "Paralyze":
+    "Pestilence":x,
+    "Plague Rats":
+    "Raise Dead":x,
+    "Royal Assassin":
+    "Sacrifice":x,
+    "Scathe Zombies":
+    "Scavenging Ghoul":
+    "Sengir Vampire":
+    "Simulacrum":x,
+    "Sinkhole":x,
+    "Terror":x,
+    "Unholy Strength":
+    "Wall of Bone":
+    "Warp Artifact":
+    "Weakness":
+    "Will-o'-the-Wisp":
+    "Word of Command":x,
+    "Zombie Master":
+    "Burrowing":
+    "Chaoslace":x,
+    "Disintegrate":x,
+    "Dragon Whelp":
+    "Dwarven Demolition Team":
+    "Dwarven Warriors":
+    "Earth Elemental":
+    "Earthbind":
+    "Earthquake":x,
+    "False Orders":x,
+    "Fire Elemental":
+    "Fireball":x,
+    "Firebreathing":
+    "Flashfires":x,
+    "Fork":x,
+    "Goblin Balloon Brigade":
+    "Goblin King":
+    "Granite Gargoyle":
+    "Gray Ogre":
+    "Hill Giant":
+    "Hurloon Minotaur":
+    "Ironclaw Orcs":
+    "Keldon Warlord":
+    "Lightning Bolt":x,
+    "Mana Flare":x,
+    "Manabarbs":x,
+    "Mons's Goblin Raiders":
+    "Orcish Artillery":
+    "Orcish Oriflamme":x,
+    "Power Surge":x,
+    "Raging River":x,
+    "Red Elemental Blast":x,
+    "Roc of Kher Ridges":
+    "Rock Hydra":
+    "Sedge Troll":
+    "Shatter":x,
+    "Shivan Dragon":
+    "Smoke":x,
+    "Stone Giant":
+    "Stone Rain":x,
+    "Tunnel":x,
+    "Two-Headed Giant of Foriys":
+    "Uthden Troll":
+    "Wall of Fire":
+    "Wall of Stone":
+    "Wheel of Fortune":x,
+    "Aspect of Wolf":
+    "Berserk":x,
+    "Birds of Paradise":
+    "Camoflauge":x,
+    "Channel":x,
+    "Cockatrice":
+    "Craw Wurm":
+    "Elvish Archers":
+    "Fastbond":x,
+    "Fog":x,
+    "Force of Nature":
+    "Fungusaur":
+    "Gaea's Liege":
+    "Giant Growth":x,
+    "Giant Spider":
+    "Grizzly Bears":
+    "Hurricane":x,
+    "Ice Storm":x,
+    "Instill Energy":
+    "Ironroot Treefolk":
+    "Kudzu":
+    "Ley Druid":
+    "Lifeforce":x,
+    "Lifelace":x,
+    "Living Artifact":
+    "Living Lands":x,
+    "Llanowar Elves":
+    "Lure":
+    "Natural Selection":x,
+    "Regeneration":
+    "Regrowth":x,
+    "Scryb Sprites":
+    "Shanodin Dryads":
+    "Stream of Life":x,
+    "Thicket Baselisk":
+    "Timber Wolves":
+    "Tranquility":x,
+    "Tsunami":x,
+    "Verduran Enchantress":
+    "Wall of Brambles":
+    "Wall of Ice":
+    "Wall of Wood":
+    "Wanderlust":
+    "War Mammoth":
+    "Web":
+    "Wild Growth":
+    "Ankh of Mishra":
+    "Basalt Monalith":
+    "Black Lotus":
+    "Black Vise":
+    "Celestial Prism":
+    "Chaos Orb":
+    "Clockwork Beast":
+    "Conservator":
+    "Copper Tablet":
+    "Crystal Rod":
+    "Cyclopean Tomb":
+    "Dingus Egg":
+    "Disrupting Scepter":
+    "Forcefield":
+    "Gauntlet of Might":
+    "Glasses of Urza":
+    "Helm of Chatzuk":
+    "Howling Mine":
+    "Icy Manipulator":
+    "Illusionary Mask":
+    "Iron Star":
+    "Ivory Cup":
+    "Jade Monolith":
+    "Jade Statue":x,
+    "Jayemdae Tome":
+    "Juggernaut":
+    "Kormus Bell":
+    "Library of Leng":
+    "Living Wall":
+    "Mana Vault":
+    "Meekstone":
+    "Mox Emerald":
+    "Mox Jet":
+    "Mox Pearl":
+    "Mox Ruby":
+    "Mox Saphire":
+    "Nevinyrral's Disk":
+    "Obsianus Golem":
+    "Rod of Ruin":
+    "Sol Ring":
+    "Soul Net":
+    "Sunglasses of Urza":
+    "The Hive":
+    "Throne of Bone":
+    "Time Vault":
+    "Winter Orb":
+    "Wooden Sphere":
+    "Badlands":x,
+    "Bayou":x,
+    "Plateau":x,
+    "Savannah":x,
+    "Scrublands":x,
+    "Taiga":x,
+    "Tropical Island":x,
+    "Tundra":x,
+    "Underground Sea":x,
+    "Plains(A)":x,
+    "Plains(B)":x,
+    "Island(A)":x,
+    "Island(B)":x,
+    "Swamp(A)":x,
+    "Swamp(B)":x,
+    "Mountain(A)":x,
+    "Mountain(B)":x,
+    "Forest(A)":x,
+    "Forest(B)":x,
+}
+
 cardpower = {
     "Animate Wall":x,
     "Armageddon":x,
