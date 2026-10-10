@@ -306,102 +306,102 @@ carduse = {
     "Balance":"Sorcery",
     "Benalish Hero":"Summon",
     "Black Ward":"Enchant",
-    "Blaze of Glory":
+    "Blaze of Glory":"Instant",
     "Blessing":"Enchant",
     "Blue Ward":"Enchant",
-    "Castle":
-    "Circle of Protection: Blue":
-    "Circle of Protection: Green":
-    "Circle of Protection: Red":
-    "Circle of Protection: White":
+    "Castle":"Enchantment",
+    "Circle of Protection: Blue":"Enchantment",
+    "Circle of Protection: Green":"Enchantment",
+    "Circle of Protection: Red":"Enchantment",
+    "Circle of Protection: White":"Enchantment",
     "Consecrate Land":"Enchant",
-    "Conversion":
-    "Crusade":
-    "Death Ward":
-    "Disenchant":
+    "Conversion":"Enchantment",
+    "Crusade":"Enchantment",
+    "Death Ward":"Instant",
+    "Disenchant":"Instant",
     "Farmstead":"Enchant",
     "Green Ward":"Enchant",
-    "Guardian Angel":
-    "Healing Salve":
+    "Guardian Angel":"Instant",
+    "Healing Salve":"Instant",
     "Holy Armor":"Enchant",
     "Holy Strength":"Enchant",
-    "Island Sanctuary":
-    "Karma":
+    "Island Sanctuary":"Enchantment",
+    "Karma":"Enchantment",
     "Lance":"Enchant",
     "Mesa Pegasus":"Summon",
     "Northern Paladin":"Summon",
     "Pearled Unicorn":"Summon",
     "Personal Incarnation":"Summon",
-    "Purelace":
+    "Purelace":"Interrupt",
     "Red Ward":"Enchant",
     "Resurrection":"Sorcery",
-    "Reverse Damage":
-    "Righteouness":
-    "Samite Healer":
+    "Reverse Damage":"Instant",
+    "Righteouness":"Instant",
+    "Samite Healer":"Summon",
     "Savannah Lions":"Summon",
     "Serra Angel":"Summon",
-    "Swords to Plowshares":
+    "Swords to Plowshares":"Instant",
     "Veteran Bodyguard":"Summon",
     "Wall of Swords":"Summon",
     "White Knight":"Summon",
     "White Ward":"Enchant",
     "Wrath of God":"Sorcery",
     "Air Elemental":"Summon",
-    "Ancestral Recall":
+    "Ancestral Recall":"Instant",
     "Animate Artifact":"Enchant",
-    "Blue Element Blast":
+    "Blue Element Blast":"Interrupt",
     "Braingeyser":"Sorcery",
     "Clone":"Summon",
     "Control Magic":"Enchant",
-    "Copy Artifact":
-    "Counter Spell":
+    "Copy Artifact":"Enchantment",
+    "Counter Spell":"Interrupt",
     "Creature Bond":"Enchant",
     "Drain Power":"Sorcery",
     "Feedback":"Enchant",
     "Flight":"Enchant",
     "Invisibility":"Enchant",
-    "Jump":
-    "Lifetap":
+    "Jump":"Instant",
+    "Lifetap":"Enchantment",
     "Lord of Atlantis":"Summon",
-    "Magical Hack":
+    "Magical Hack":"Interrupt",
     "Mahamoti Djinn":"Summon",
-    "Mana Short":
+    "Mana Short":"Instant",
     "Merfolk of the Pearl Trident":"Summon",
     "Phantasmal Forces":"Summon",
     "Phantasmal Terrain":"Enchant",
     "Phantom Monster":"Summon",
     "Pirate Ship":"Summon",
     "Power Leak":"Enchant",
-    "Power Sink":
+    "Power Sink":"Interrupt",
     "Prodigal Sorcerer":"Summon",
-    "Psionic Blast":
+    "Psionic Blast":"Instant",
     "Psychic Venom":"Enchant",
     "Sea Serpent":"Summon",
-    "Siren's Call":
-    "Sleight of Mind":
-    "Spell Blast":
-    "Stasis":
+    "Siren's Call":"Instant",
+    "Sleight of Mind":"Interrupt",
+    "Spell Blast":"Instant",
+    "Stasis":"Enchantment",
     "Steal Artifact":"Enchant",
-    "Thoughtlace":
+    "Thoughtlace":"Interrupt",
     "Time Walk":"Sorcery",
     "Time Twister":"Sorcery",
-    "Twidle":
-    "Unsummon":
+    "Twidle":"Instant",
+    "Unsummon":"Instant",
     "Vesuvan Doppelganger":"Summon",
     "Volcanic Eruption":"Sorcery",
     "Wall of Air":"Summon",
     "Wall of Water":"Summon",
     "Water Elemental":"Summon",
     "Animate Dead":"Enchant",
-    "Bad Moon":
+    "Bad Moon":"Enchantment",
     "Black Knight":"Summon",
     "Bog Wraith":"Summon",
     "Contract from Below":"Sorcery",
     "Cursed Land":"Enchant",
-    "Dark Ritual":
+    "Dark Ritual":"Interrupt",
     "Darkpact":"Sorcery",
-    "Deathgrip":
-    "Deathlace":
+    "Deathgrip":"Enchantment",
+    "Deathlace":"Interrupt",
     "Demonic Attorney":"Sorcery",
     "Demonic Hordes":"Summon",
     "Demonic Tutor":"Sorcery",
@@ -410,36 +410,36 @@ carduse = {
     "Evil Presence":"Enchant",
     "Fear":"Enchant",
     "Frozen Shade":"Summon",
-    "Gloom":
-    "Howl from Beyond":
+    "Gloom":"Enchantment",
+    "Howl from Beyond":"Instant",
     "Hypnotic Specter ":"Summon",
-    "Lich":
+    "Lich":"Enchantment",
     "Lord of the Pit":"Summon",
     "Mind twist":"Sorcery",
     "Nether Shadow":"Summon",
     "Nettling Imp":"Summon",
     "Nightmare":"Summon",
     "Paralyze":"Enchant",
-    "Pestilence":
+    "Pestilence":"Enchantment",
     "Plague Rats":"Summon",
     "Raise Dead":"Sorcery",
     "Royal Assassin":"Summon",
-    "Sacrifice":
+    "Sacrifice":"Interrupt",
     "Scathe Zombies":"Summon",
     "Scavenging Ghoul":"Summon",
     "Sengir Vampire":"Summon",
-    "Simulacrum":
+    "Simulacrum":"Instant",
     "Sinkhole":"Sorcery",
-    "Terror":
+    "Terror":"Instant",
     "Unholy Strength":"Enchant",
     "Wall of Bone":"Summon",
     "Warp Artifact":"Enchant",
     "Weakness":"Enchant",
     "Will-O'-The-Wisp":"Summon",
-    "Word of Command":
+    "Word of Command":"Instant",
     "Zombie Master":"Summon",
     "Burrowing":"Enchant",
-    "Chaoslace":
+    "Chaoslace":"Interrupt",
     "Disintegrate":"Sorcery",
     "Dragon Whelp":"Summon",
     "Dwarven Demolition Team":"Summon",
@@ -447,12 +447,12 @@ carduse = {
     "Earth Elemental":"Summon",
     "Earthbind":"Enchant",
     "Earthquake":"Sorcery",
-    "False Orders":
+    "False Orders":"Instant",
     "Fire Elemental":"Summon",
     "Fireball":"Sorcery",
     "Firebreathing":"Enchant",
     "Flashfires":"Sorcery",
-    "Fork":
+    "Fork":"Interrupt",
     "Goblin Balloon Brigade":"Summon",
     "Goblin King":"Summon",
     "Granite Gargoyle":"Summon",
@@ -461,43 +461,43 @@ carduse = {
     "Hurloon Minotaur":"Summon",
     "Ironclaw Orcs":"Summon",
     "Keldon Warlord":"Summon",
-    "Lightning Bolt":
-    "Mana Flare":
-    "Manabarbs":
+    "Lightning Bolt":"Instant",
+    "Mana Flare":"Enchantment",
+    "Manabarbs":"Enchantment",
     "Mons's Goblin Raiders":"Summon",
     "Orcish Artillery":"Summon",
-    "Orcish Oriflamme":
-    "Power Surge":
-    "Raging River":
-    "Red Elemental Blast":
+    "Orcish Oriflamme":"Enchantment",
+    "Power Surge":"Enchantment",
+    "Raging River":"Enchantment",
+    "Red Elemental Blast":"Instant",
     "Roc of Kher Ridges":"Summon",
     "Rock Hydra":"Summon",
     "Sedge Troll":"Summon",
-    "Shatter":
+    "Shatter":"Instant",
     "Shivan Dragon":"Summon",
-    "Smoke":
+    "Smoke":"Enchantment",
     "Stone Giant":"Summon",
     "Stone Rain":"Sorcery",
-    "Tunnel":
+    "Tunnel":"Instant",
     "Two-Headed Giant of Foriys":"Summon",
     "Uthden Troll":"Summon",
     "Wall of Fire":"Summon",
     "Wall of Stone":"Summon",
     "Wheel of Fortune":"Sorcery",
     "Aspect of Wolf":"Enchant",
-    "Berserk":
+    "Berserk":"Instant",
     "Birds of Paradise":"Summon",
-    "Camoflauge":
+    "Camoflauge":"Instant",
     "Channel":"Sorcery",
     "Cockatrice":"Summon",
     "Craw Wurm":"Summon",
     "Elvish Archers":"Summon",
-    "Fastbond":
-    "Fog":
+    "Fastbond":"Enchantment",
+    "Fog":"Instant",
     "Force of Nature":"Summon",
     "Fungusaur":"Summon",
     "Gaea's Liege":"Summon",
-    "Giant Growth":
+    "Giant Growth":"Instant",
     "Giant Spider":"Summon",
     "Grizzly Bears":"Summon",
     "Hurricane":"Sorcery",
@@ -506,14 +506,14 @@ carduse = {
     "Ironroot Treefolk":"Summon",
     "Kudzu":"Enchant",
     "Ley Druid":"Summon",
-    "Lifeforce":
-    "Lifelace":
+    "Lifeforce":"Enchantment",
+    "Lifelace":"Interrupt",
     "Living Artifact":"Enchant",
-    "Living Lands":
+    "Living Lands":"Enchantment",
     "Llanowar Elves":"Summon",
     "Lure":"Enchant",
-    "Natural Selection":
-    "Regeneration":
+    "Natural Selection":"Instant",
+    "Regeneration":"Regeneration",
     "Regrowth":"Sorcery",
     "Scryb Sprites":"Summon",
     "Shanodin Dryads":"Summon",
@@ -530,72 +530,72 @@ carduse = {
     "War Mammoth":"Summon",
     "Web":"Enchant",
     "Wild Growth":"Enchant",
-    "Ankh of Mishra":
-    "Basalt Monalith":
-    "Black Lotus":
-    "Black Vise":
-    "Celestial Prism":
-    "Chaos Orb":
-    "Clockwork Beast":
-    "Conservator":
-    "Copper Tablet":
-    "Crystal Rod":
-    "Cyclopean Tomb":
-    "Dingus Egg":
-    "Disrupting Scepter":
-    "Forcefield":
-    "Gauntlet of Might":
-    "Glasses of Urza":
-    "Helm of Chatzuk":
-    "Howling Mine":
-    "Icy Manipulator":
-    "Illusionary Mask":
-    "Iron Star":
-    "Ivory Cup":
-    "Jade Monolith":
-    "Jade Statue":
-    "Jayemdae Tome":
-    "Juggernaut":
-    "Kormus Bell":
-    "Library of Leng":
-    "Living Wall":
-    "Mana Vault":
-    "Meekstone":
-    "Mox Emerald":
-    "Mox Jet":
-    "Mox Pearl":
-    "Mox Ruby":
-    "Mox Saphire":
-    "Nevinyrral's Disk":
-    "Obsianus Golem":
-    "Rod of Ruin":
-    "Sol Ring":
-    "Soul Net":
-    "Sunglasses of Urza":
-    "The Hive":
-    "Throne of Bone":
-    "Time Vault":
-    "Winter Orb":
-    "Wooden Sphere":
-    "Badlands":
-    "Bayou":
-    "Plateau":
-    "Savannah":
-    "Scrublands":
-    "Taiga":
-    "Tropical Island":
-    "Tundra":
-    "Underground Sea":
-    "Plains(A)":
-    "Plains(B)":
-    "Island(A)":
-    "Island(B)":
-    "Swamp(A)":
-    "Swamp(B)":
-    "Mountain(A)":
-    "Mountain(B)":
-    "Forest(A)":
-    "Forest(B)":
+    "Ankh of Mishra":"Artifact",
+    "Basalt Monalith":"Artifact",
+    "Black Lotus":"Artifact",
+    "Black Vise":"Artifact",
+    "Celestial Prism":"Artifact",
+    "Chaos Orb":"Artifact",
+    "Clockwork Beast":"Artifact",
+    "Conservator":"Artifact",
+    "Copper Tablet":"Artifact",
+    "Crystal Rod":"Artifact",
+    "Cyclopean Tomb":"Artifact",
+    "Dingus Egg":"Artifact",
+    "Disrupting Scepter":"Artifact",
+    "Forcefield":"Artifact",
+    "Gauntlet of Might":"Artifact",
+    "Glasses of Urza":"Artifact",
+    "Helm of Chatzuk":"Artifact",
+    "Howling Mine":"Artifact",
+    "Icy Manipulator":"Artifact",
+    "Illusionary Mask":"Artifact",
+    "Iron Star":"Artifact",
+    "Ivory Cup":"Artifact",
+    "Jade Monolith":"Artifact",
+    "Jade Statue":"Artifact",
+    "Jayemdae Tome":"Artifact",
+    "Juggernaut":"Artifact",
+    "Kormus Bell":"Artifact",
+    "Library of Leng":"Artifact",
+    "Living Wall":"Artifact",
+    "Mana Vault":"Artifact",
+    "Meekstone":"Artifact",
+    "Mox Emerald":"Artifact",
+    "Mox Jet":"Artifact",
+    "Mox Pearl":"Artifact",
+    "Mox Ruby":"Artifact",
+    "Mox Saphire":"Artifact",
+    "Nevinyrral's Disk":"Artifact",
+    "Obsianus Golem":"Artifact",
+    "Rod of Ruin":"Artifact",
+    "Sol Ring":"Artifact",
+    "Soul Net":"Artifact",
+    "Sunglasses of Urza":"Artifact",
+    "The Hive":"Artifact",
+    "Throne of Bone":"Artifact",
+    "Time Vault":"Artifact",
+    "Winter Orb":"Artifact",
+    "Wooden Sphere":"Artifact",
+    "Badlands":"Land",
+    "Bayou":"Land",
+    "Plateau":"Land",
+    "Savannah":"Land",
+    "Scrublands":"Land",
+    "Taiga":"Land",
+    "Tropical Island":"Land",
+    "Tundra":"Land",
+    "Underground Sea":"Land",
+    "Plains(A)":"Land",
+    "Plains(B)":"Land",
+    "Island(A)":"Land",
+    "Island(B)":"Land",
+    "Swamp(A)":"Land",
+    "Swamp(B)":"Land",
+    "Mountain(A)":"Land",
+    "Mountain(B)":"Land",
+    "Forest(A)":"Land",
+    "Forest(B)":"Land",
 }
 
 cardpower = {
@@ -1730,6 +1730,9 @@ othermanacost = {
 
 def getcname(cnum):
     return(cardname[cnum])
+
+def getcuse(cname):
+    return(carduse[cname])
 
 def getcpower(cname):
     return(cardpower[cname])
