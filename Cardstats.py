@@ -673,208 +673,208 @@ cardsubtype = {
     "Power Sink":x,
     "Prodigal Sorcerer":"Wizard",
     "Psionic Blast":x,
-    "Psychic Venom":
-    "Sea Serpent":
+    "Psychic Venom":"Land",
+    "Sea Serpent":"Serpent",
     "Siren's Call":x,
     "Sleight of Mind":x,
     "Spell Blast":x,
     "Stasis":x,
-    "Steal Artifact":
+    "Steal Artifact":"Artifact",
     "Thoughtlace":x,
     "Time Walk":x,
     "Time Twister":x,
     "Twidle":x,
     "Unsummon":x,
-    "Vesuvan Doppelganger":
+    "Vesuvan Doppelganger":"Doppelganger",
     "Volcanic Eruption":x,
-    "Wall of Air":
-    "Wall of Water":
-    "Water Elemental":
-    "Animate Dead":
+    "Wall of Air":"Wall",
+    "Wall of Water":"Wall",
+    "Water Elemental":"Elemental",
+    "Animate Dead":"Dead Creature",
     "Bad Moon":x,
-    "Black Knight":
-    "Bog Wraith":
+    "Black Knight":"Knight",
+    "Bog Wraith":"Wraith",
     "Contract from Below":x,
-    "Cursed Land":
+    "Cursed Land":"Land",
     "Dark Ritual":x,
     "Darkpact":x,
     "Deathgrip":x,
     "Deathlace":x,
     "Demonic Attorney":x,
-    "Demonic Hordes":
+    "Demonic Hordes":"Demons",
     "Demonic Tutor":x,
     "Drain Life":x,
-    "Drudge Skeletons":
-    "Evil Presence":
-    "Fear":
-    "Frozen Shade":
+    "Drudge Skeletons":"Skeletons",
+    "Evil Presence":"Land",
+    "Fear":"Creature",
+    "Frozen Shade":"Shade",
     "Gloom":x,
     "Howl from Beyond":x,
-    "Hypnotic Specter ":
+    "Hypnotic Specter ":"Specter",
     "Lich":x,
-    "Lord of the Pit":
+    "Lord of the Pit":"Demon",
     "Mind twist":x,
-    "Nether Shadow":
-    "Nettling Imp":
-    "Nightmare":
-    "Paralyze":
+    "Nether Shadow":"Shadow",
+    "Nettling Imp":"Imp",
+    "Nightmare":"Nightmare",
+    "Paralyze":"Creature",
     "Pestilence":x,
-    "Plague Rats":
+    "Plague Rats":"Rats",
     "Raise Dead":x,
-    "Royal Assassin":
+    "Royal Assassin":"Assassin",
     "Sacrifice":x,
-    "Scathe Zombies":
-    "Scavenging Ghoul":
-    "Sengir Vampire":
+    "Scathe Zombies":"Zombies",
+    "Scavenging Ghoul":"Ghoul",
+    "Sengir Vampire":"Vampire",
     "Simulacrum":x,
     "Sinkhole":x,
     "Terror":x,
-    "Unholy Strength":
-    "Wall of Bone":
-    "Warp Artifact":
-    "Weakness":
-    "Will-o'-the-Wisp":
+    "Unholy Strength":"Creature",
+    "Wall of Bone":"Wall",
+    "Warp Artifact":"Artifact",
+    "Weakness":"Creature",
+    "Will-O-The-Wisp":"Will-O'-The-Wisp",
     "Word of Command":x,
-    "Zombie Master":
-    "Burrowing":
+    "Zombie Master":"Lord",
+    "Burrowing":"Creature",
     "Chaoslace":x,
     "Disintegrate":x,
-    "Dragon Whelp":
-    "Dwarven Demolition Team":
-    "Dwarven Warriors":
-    "Earth Elemental":
-    "Earthbind":
+    "Dragon Whelp":"Dragon",
+    "Dwarven Demolition Team":"Dwarves",
+    "Dwarven Warriors":"Dwarves",
+    "Earth Elemental":"Elemental",
+    "Earthbind":"Flying Creature",
     "Earthquake":x,
     "False Orders":x,
-    "Fire Elemental":
+    "Fire Elemental":"Elemental",
     "Fireball":x,
-    "Firebreathing":
+    "Firebreathing":"Creature",
     "Flashfires":x,
     "Fork":x,
-    "Goblin Balloon Brigade":
-    "Goblin King":
-    "Granite Gargoyle":
-    "Gray Ogre":
-    "Hill Giant":
-    "Hurloon Minotaur":
-    "Ironclaw Orcs":
-    "Keldon Warlord":
+    "Goblin Balloon Brigade":"Goblins",
+    "Goblin King":"Goblin King",
+    "Granite Gargoyle":"Gargoyle",
+    "Gray Ogre":"Ogre",
+    "Hill Giant":"Giant",
+    "Hurloon Minotaur":"Minotaur",
+    "Ironclaw Orcs":"Orcs",
+    "Keldon Warlord":"Lord",
     "Lightning Bolt":x,
     "Mana Flare":x,
     "Manabarbs":x,
-    "Mons's Goblin Raiders":
-    "Orcish Artillery":
+    "Mons's Goblin Raiders":"Goblins",
+    "Orcish Artillery":"Orcs",
     "Orcish Oriflamme":x,
     "Power Surge":x,
     "Raging River":x,
     "Red Elemental Blast":x,
-    "Roc of Kher Ridges":
-    "Rock Hydra":
-    "Sedge Troll":
+    "Roc of Kher Ridges":"Roc",
+    "Rock Hydra":"Hydra",
+    "Sedge Troll":"Troll",
     "Shatter":x,
-    "Shivan Dragon":
+    "Shivan Dragon":"Dragon",
     "Smoke":x,
-    "Stone Giant":
+    "Stone Giant":"Giant",
     "Stone Rain":x,
     "Tunnel":x,
-    "Two-Headed Giant of Foriys":
-    "Uthden Troll":
-    "Wall of Fire":
-    "Wall of Stone":
+    "Two-Headed Giant of Foriys":"Giant",
+    "Uthden Troll":"Troll",
+    "Wall of Fire":"Wall",
+    "Wall of Stone":"Wall",
     "Wheel of Fortune":x,
-    "Aspect of Wolf":
+    "Aspect of Wolf":"Creature",
     "Berserk":x,
-    "Birds of Paradise":
+    "Birds of Paradise":"Mana Birds",
     "Camoflauge":x,
     "Channel":x,
-    "Cockatrice":
-    "Craw Wurm":
-    "Elvish Archers":
+    "Cockatrice":"Cockatrice",
+    "Craw Wurm":"Wurm",
+    "Elvish Archers":"Elves",
     "Fastbond":x,
     "Fog":x,
-    "Force of Nature":
-    "Fungusaur":
-    "Gaea's Liege":
+    "Force of Nature":"Force",
+    "Fungusaur":"Fungusaur",
+    "Gaea's Liege":"Gaea's Liege",
     "Giant Growth":x,
-    "Giant Spider":
-    "Grizzly Bears":
+    "Giant Spider":"Spider",
+    "Grizzly Bears":"Bears",
     "Hurricane":x,
     "Ice Storm":x,
-    "Instill Energy":
-    "Ironroot Treefolk":
-    "Kudzu":
-    "Ley Druid":
+    "Instill Energy":"Creature",
+    "Ironroot Treefolk":"Treefolk",
+    "Kudzu":"Land",
+    "Ley Druid":"Cleric",
     "Lifeforce":x,
     "Lifelace":x,
-    "Living Artifact":
+    "Living Artifact":"Artifact",
     "Living Lands":x,
-    "Llanowar Elves":
-    "Lure":
+    "Llanowar Elves":"Elves",
+    "Lure":"Creature",
     "Natural Selection":x,
-    "Regeneration":
+    "Regeneration":"Creature",
     "Regrowth":x,
-    "Scryb Sprites":
-    "Shanodin Dryads":
+    "Scryb Sprites":"Faeries",
+    "Shanodin Dryads":"Nymphs",
     "Stream of Life":x,
-    "Thicket Baselisk":
-    "Timber Wolves":
+    "Thicket Baselisk":"Baselisk",
+    "Timber Wolves":"Wolves",
     "Tranquility":x,
     "Tsunami":x,
-    "Verduran Enchantress":
-    "Wall of Brambles":
-    "Wall of Ice":
-    "Wall of Wood":
-    "Wanderlust":
-    "War Mammoth":
-    "Web":
-    "Wild Growth":
-    "Ankh of Mishra":
-    "Basalt Monalith":
-    "Black Lotus":
-    "Black Vise":
-    "Celestial Prism":
-    "Chaos Orb":
-    "Clockwork Beast":
-    "Conservator":
-    "Copper Tablet":
-    "Crystal Rod":
-    "Cyclopean Tomb":
-    "Dingus Egg":
-    "Disrupting Scepter":
-    "Forcefield":
-    "Gauntlet of Might":
-    "Glasses of Urza":
-    "Helm of Chatzuk":
-    "Howling Mine":
-    "Icy Manipulator":
-    "Illusionary Mask":
-    "Iron Star":
-    "Ivory Cup":
-    "Jade Monolith":
+    "Verduran Enchantress":"Enchantress",
+    "Wall of Brambles":"Wall",
+    "Wall of Ice":"Wall",
+    "Wall of Wood":"Wall",
+    "Wanderlust":"Creature",
+    "War Mammoth":"Mammoth",
+    "Web":"Creature",
+    "Wild Growth":"Land",
+    "Ankh of Mishra":"Continuous",
+    "Basalt Monalith":"Mono",
+    "Black Lotus":"Mono",
+    "Black Vise":"Continuous",
+    "Celestial Prism":"Mono",
+    "Chaos Orb":"Mono",
+    "Clockwork Beast":"Creature",
+    "Conservator":"Mono",
+    "Copper Tablet":"Continuous",
+    "Crystal Rod":"Poly",
+    "Cyclopean Tomb":"Mono",
+    "Dingus Egg":"Continuous",
+    "Disrupting Scepter":"Mono",
+    "Forcefield":"Poly",
+    "Gauntlet of Might":"Continuous",
+    "Glasses of Urza":"Mono",
+    "Helm of Chatzuk":"Mono",
+    "Howling Mine":"Continuous",
+    "Icy Manipulator":"Mono",
+    "Illusionary Mask":"Poly",
+    "Iron Star":"Poly",
+    "Ivory Cup":"Poly",
+    "Jade Monolith":"Poly",
     "Jade Statue":x,
-    "Jayemdae Tome":
-    "Juggernaut":
-    "Kormus Bell":
-    "Library of Leng":
-    "Living Wall":
-    "Mana Vault":
-    "Meekstone":
-    "Mox Emerald":
-    "Mox Jet":
-    "Mox Pearl":
-    "Mox Ruby":
-    "Mox Saphire":
-    "Nevinyrral's Disk":
-    "Obsianus Golem":
-    "Rod of Ruin":
-    "Sol Ring":
-    "Soul Net":
-    "Sunglasses of Urza":
-    "The Hive":
-    "Throne of Bone":
-    "Time Vault":
-    "Winter Orb":
-    "Wooden Sphere":
+    "Jayemdae Tome":"Mono",
+    "Juggernaut":"Creature",
+    "Kormus Bell":"Continuous",
+    "Library of Leng":"Continuous",
+    "Living Wall":"Creature",
+    "Mana Vault":"Mono",
+    "Meekstone":"Continuous",
+    "Mox Emerald":"Mono",
+    "Mox Jet":"Mono",
+    "Mox Pearl":"Mono",
+    "Mox Ruby":"Mono",
+    "Mox Saphire":"Mono",
+    "Nevinyrral's Disk":"Mono",
+    "Obsianus Golem":"Creature",
+    "Rod of Ruin":"Mono",
+    "Sol Ring":"Mono",
+    "Soul Net":"Poly",
+    "Sunglasses of Urza":"Continuous",
+    "The Hive":"Mono",
+    "Throne of Bone":"Poly",
+    "Time Vault":"Mono",
+    "Winter Orb":"Continuous",
+    "Wooden Sphere":"Poly",
     "Badlands":x,
     "Bayou":x,
     "Plateau":x,
@@ -2020,10 +2020,370 @@ coloredmanacost = {
     "War Mammoth":1,
     "Web":1,
     "Wild Growth":1,
+    "Ankh of Mishra":x,
+    "Basalt Monalith":x,
+    "Black Lotus":x,
+    "Black Vise":x,
+    "Celestial Prism":x,
+    "Chaos Orb":x,
+    "Clockwork Beast":x,
+    "Conservator":x,
+    "Copper Tablet":x,
+    "Crystal Rod":x,
+    "Cyclopean Tomb":x,
+    "Dingus Egg":x,
+    "Disrupting Scepter":x,
+    "Forcefield":x,
+    "Gauntlet of Might":x,
+    "Glasses of Urza":x,
+    "Helm of Chatzuk":x,
+    "Howling Mine":x,
+    "Icy Manipulator":x,
+    "Illusionary Mask":x,
+    "Iron Star":x,
+    "Ivory Cup":x,
+    "Jade Monolith":x,
+    "Jade Statue":x,
+    "Jayemdae Tome":x,
+    "Juggernaut":x,
+    "Kormus Bell":x,
+    "Library of Leng":x,
+    "Living Wall":x,
+    "Mana Vault":x,
+    "Meekstone":x,
+    "Mox Emerald":x,
+    "Mox Jet":x,
+    "Mox Pearl":x,
+    "Mox Ruby":x,
+    "Mox Saphire":x,
+    "Nevinyrral's Disk":x,
+    "Obsianus Golem":x,
+    "Rod of Ruin":x,
+    "Sol Ring":x,
+    "Soul Net":x,
+    "Sunglasses of Urza":x,
+    "The Hive":x,
+    "Throne of Bone":x,
+    "Time Vault":x,
+    "Winter Orb":x,
+    "Wooden Sphere":x,
+    "Badlands":x,
+    "Bayou":x,
+    "Plateau":x,
+    "Savannah":x,
+    "Scrublands":x,
+    "Taiga":x,
+    "Tropical Island":x,
+    "Tundra":x,
+    "Underground Sea":x,
+    "Plains(A)":x,
+    "Plains(B)":x,
+    "Island(A)":x,
+    "Island(B)":x,
+    "Swamp(A)":x,
+    "Swamp(B)":x,
+    "Mountain(A)":x,
+    "Mountain(B)":x,
+    "Forest(A)":x,
+    "Forest(B)":x,
 }
 
 othermanacost = {
-
+    "Animate Wall":0,
+    "Armageddon":3,
+    "Balance":1,
+    "Benalish Hero":0,
+    "Black Ward":0,
+    "Blaze of Glory":0,
+    "Blessing":0,
+    "Blue Ward":0,
+    "Castle":3,
+    "Circle of Protection: Blue":1,
+    "Circle of Protection: Green":1,
+    "Circle of Protection: Red":1,
+    "Circle of Protection: White":1,
+    "Consecrate Land":0,
+    "Conversion":2,
+    "Crusade":0,
+    "Death Ward":0,
+    "Disenchant":1,
+    "Farmstead":0,
+    "Green Ward":0,
+    "Guardian Angel":s,
+    "Healing Salve":0,
+    "Holy Armor":0,
+    "Holy Strength":0,
+    "Island Sanctuary":1,
+    "Karma":2,
+    "Lance":0,
+    "Mesa Pegasus":1,
+    "Northern Paladin":2,
+    "Pearled Unicorn":2,
+    "Personal Incarnation":3,
+    "Purelace":0,
+    "Red Ward":0,
+    "Resurrection":2,
+    "Reverse Damage":1,
+    "Righteouness":0,
+    "Samite Healer":1,
+    "Savannah Lions":0,
+    "Serra Angel":3,
+    "Swords to Plowshares":0,
+    "Veteran Bodyguard":3,
+    "Wall of Swords":3,
+    "White Knight":0,
+    "White Ward":0,
+    "Wrath of God":2,
+    "Air Elemental":3,
+    "Ancestral Recall":0,
+    "Animate Artifact":3,
+    "Blue Element Blast":0,
+    "Braingeyser":s,
+    "Clone":3,
+    "Control Magic":2,
+    "Copy Artifact":1,
+    "Counter Spell":0,
+    "Creature Bond":1,
+    "Drain Power":0,
+    "Feedback":2,
+    "Flight":0,
+    "Invisibility":0,
+    "Jump":0,
+    "Lifetap":0,
+    "Lord of Atlantis":0,
+    "Magical Hack":0,
+    "Mahamoti Djinn":4,
+    "Mana Short":2,
+    "Merfolk of the Pearl Trident":0,
+    "Phantasmal Forces":3,
+    "Phantasmal Terrain":0,
+    "Phantom Monster":3,
+    "Pirate Ship":4,
+    "Power Leak":1,
+    "Power Sink":s,
+    "Prodigal Sorcerer":2,
+    "Psionic Blast":2,
+    "Psychic Venom":1,
+    "Sea Serpent":5,
+    "Siren's Call":0,
+    "Sleight of Mind":0,
+    "Spell Blast":s,
+    "Stasis":1,
+    "Steal Artifact":2,
+    "Thoughtlace":0,
+    "Time Walk":1,
+    "Time Twister":2,
+    "Twidle":0,
+    "Unsummon":0,
+    "Vesuvan Doppelganger":3,
+    "Volcanic Eruption":s,
+    "Wall of Air":1,
+    "Wall of Water":1,
+    "Water Elemental":3,
+    "Animate Dead":1,
+    "Bad Moon":1,
+    "Black Knight":0,
+    "Bog Wraith":3,
+    "Contract from Below":0,
+    "Cursed Land":2,
+    "Dark Ritual":0,
+    "Darkpact":0,
+    "Deathgrip":0,
+    "Deathlace":0,
+    "Demonic Attorney":1,
+    "Demonic Hordes":3,
+    "Demonic Tutor":1,
+    "Drain Life":1,
+    "Drudge Skeletons":1,
+    "Evil Presence":0,
+    "Fear":0,
+    "Frozen Shade":2,
+    "Gloom":2,
+    "Howl from Beyond":s,
+    "Hypnotic Specter ":1,
+    "Lich":0,
+    "Lord of the Pit":4,
+    "Mind twist":s,
+    "Nether Shadow":0,
+    "Nettling Imp":2,
+    "Nightmare":5,
+    "Paralyze":0,
+    "Pestilence":2,
+    "Plague Rats":2,
+    "Raise Dead":0,
+    "Royal Assassin":1,
+    "Sacrifice":0,
+    "Scathe Zombies":2,
+    "Scavenging Ghoul":3,
+    "Sengir Vampire":3,
+    "Simulacrum":1,
+    "Sinkhole":0,
+    "Terror":1,
+    "Unholy Strength":0,
+    "Wall of Bone":2,
+    "Warp Artifact":0,
+    "Weakness":0,
+    "Will-o'-the-Wisp":0,
+    "Word of Command":0,
+    "Zombie Master":1,
+    "Burrowing":0,
+    "Chaoslace":0,
+    "Disintegrate":s,
+    "Dragon Whelp":2,
+    "Dwarven Demolition Team":2,
+    "Dwarven Warriors":2,
+    "Earth Elemental":3,
+    "Earthbind":0,
+    "Earthquake":s,
+    "False Orders":0,
+    "Fire Elemental":3,
+    "Fireball":s,
+    "Firebreathing":0,
+    "Flashfires":3,
+    "Fork":0,
+    "Goblin Balloon Brigade":0,
+    "Goblin King":1,
+    "Granite Gargoyle":2,
+    "Gray Ogre":2,
+    "Hill Giant":3,
+    "Hurloon Minotaur":1,
+    "Ironclaw Orcs":1,
+    "Keldon Warlord":2,
+    "Lightning Bolt":0,
+    "Mana Flare":2,
+    "Manabarbs":3,
+    "Mons's Goblin Raiders":0,
+    "Orcish Artillery":1,
+    "Orcish Oriflamme":1,
+    "Power Surge":0,
+    "Raging River":0,
+    "Red Elemental Blast":0,
+    "Roc of Kher Ridges":3,
+    "Rock Hydra":s,
+    "Sedge Troll":2,
+    "Shatter":1,
+    "Shivan Dragon":4,
+    "Smoke":0,
+    "Stone Giant":2,
+    "Stone Rain":2,
+    "Tunnel":0,
+    "Two-Headed Giant of Foriys":4,
+    "Uthden Troll":2,
+    "Wall of Fire":1,
+    "Wall of Stone":1,
+    "Wheel of Fortune":2,
+    "Aspect of Wolf":1,
+    "Berserk":0,
+    "Birds of Paradise":0,
+    "Camoflauge":0,
+    "Channel":0,
+    "Cockatrice":3,
+    "Craw Wurm":4,
+    "Elvish Archers":1,
+    "Fastbond":0,
+    "Fog":0,
+    "Force of Nature":2,
+    "Fungusaur":3,
+    "Gaea's Liege":3,
+    "Giant Growth":0,
+    "Giant Spider":3,
+    "Grizzly Bears":1,
+    "Hurricane":s,
+    "Ice Storm":2,
+    "Instill Energy":0,
+    "Ironroot Treefolk":4,
+    "Kudzu":1,
+    "Ley Druid":2,
+    "Lifeforce":0,
+    "Lifelace":0,
+    "Living Artifact":0,
+    "Living Lands":3,
+    "Llanowar Elves":0,
+    "Lure":1,
+    "Natural Selection":0,
+    "Regeneration":1,
+    "Regrowth":1,
+    "Scryb Sprites":0,
+    "Shanodin Dryads":0,
+    "Stream of Life":s,
+    "Thicket Baselisk":3,
+    "Timber Wolves":0,
+    "Tranquility":2,
+    "Tsunami":3,
+    "Verduran Enchantress":1,
+    "Wall of Brambles":2,
+    "Wall of Ice":2,
+    "Wall of Wood":0,
+    "Wanderlust":2,
+    "War Mammoth":3,
+    "Web":0,
+    "Wild Growth":0,
+    "Ankh of Mishra":2,
+    "Basalt Monalith":3,
+    "Black Lotus":0,
+    "Black Vise":1,
+    "Celestial Prism":3,
+    "Chaos Orb":2,
+    "Clockwork Beast":6,
+    "Conservator":4,
+    "Copper Tablet":2,
+    "Crystal Rod":1,
+    "Cyclopean Tomb":0,
+    "Dingus Egg":4,
+    "Disrupting Scepter":3,
+    "Forcefield":3,
+    "Gauntlet of Might":4,
+    "Glasses of Urza":1,
+    "Helm of Chatzuk":1,
+    "Howling Mine":2,
+    "Icy Manipulator":4,
+    "Illusionary Mask":2,
+    "Iron Star":1,
+    "Ivory Cup":1,
+    "Jade Monolith":4,
+    "Jade Statue":4,
+    "Jayemdae Tome":4,
+    "Juggernaut":4,
+    "Kormus Bell":4,
+    "Library of Leng":1,
+    "Living Wall":4,
+    "Mana Vault":1,
+    "Meekstone":1,
+    "Mox Emerald":0,
+    "Mox Jet":0,
+    "Mox Pearl":0,
+    "Mox Ruby":0,
+    "Mox Saphire":0,
+    "Nevinyrral's Disk":4,
+    "Obsianus Golem":6,
+    "Rod of Ruin":4,
+    "Sol Ring":1,
+    "Soul Net":1,
+    "Sunglasses of Urza":3,
+    "The Hive":5,
+    "Throne of Bone":1,
+    "Time Vault":2,
+    "Winter Orb":2,
+    "Wooden Sphere":1,
+    "Badlands":x,
+    "Bayou":x,
+    "Plateau":x,
+    "Savannah":x,
+    "Scrublands":x,
+    "Taiga":x,
+    "Tropical Island":x,
+    "Tundra":x,
+    "Underground Sea":x,
+    "Plains(A)":x,
+    "Plains(B)":x,
+    "Island(A)":x,
+    "Island(B)":x,
+    "Swamp(A)":x,
+    "Swamp(B)":x,
+    "Mountain(A)":x,
+    "Mountain(B)":x,
+    "Forest(A)":x,
+    "Forest(B)":x,
 }
 
 def getcname(cnum):
@@ -2031,6 +2391,9 @@ def getcname(cnum):
 
 def getcuse(cname):
     return(carduse[cname])
+
+def getcsubtype(cname):
+    return(cardsubtype[cname])
 
 def getcpower(cname):
     return(cardpower[cname])
